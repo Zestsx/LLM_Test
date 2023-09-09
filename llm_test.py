@@ -13,8 +13,6 @@ Original file is located at
 
 # Imports
 import streamlit as st
-import os
-from streamlit_chat import message
 
 # import
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
